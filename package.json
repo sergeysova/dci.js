@@ -2,13 +2,16 @@
   "name": "dci.js",
   "version": "0.0.0-development",
   "description": "Data Context Interaction",
-  "main": "index.js",
+  "main": "lib/dci.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LestaD/dci.js.git"
+  },
+  "engines": {
+    "node": ">= 4"
   },
   "keywords": [
     "data",
