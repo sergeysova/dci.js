@@ -2,6 +2,10 @@
 
 Data Context Interaction
 
+https://en.wikipedia.org/wiki/Data,_context_and_interaction
+https://habrahabr.ru/post/151169/
+
+
 ## Development
 
 Now package in development.
