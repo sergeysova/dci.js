@@ -1,0 +1,26 @@
+{
+  "name": "dci.js",
+  "version": "0.0.0-development",
+  "description": "Data Context Interaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LestaD/dci.js.git"
+  },
+  "keywords": [
+    "data",
+    "context",
+    "interaction",
+    "paradigm",
+    "pattern"
+  ],
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/LestaD/dci.js/issues"
+  },
+  "homepage": "https://github.com/LestaD/dci.js#readme"
+}
