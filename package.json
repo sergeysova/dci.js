@@ -1,6 +1,6 @@
 {
   "name": "dci.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Data Context Interaction",
   "main": "lib/dci.js",
   "scripts": {
